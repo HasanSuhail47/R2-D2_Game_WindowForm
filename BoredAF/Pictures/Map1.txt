@@ -1,0 +1,17 @@
+background
+C:\\Users\\Home PC\\source\\repos\\BoredAF\\BoredAF\\Pictures\\background-01.png
+800|600
+0|0
+background
+platform
+C:\\Users\\Home PC\\source\\repos\\BoredAF\\BoredAF\\Pictures\\brick-01.png
+50|50
+platform
+0/1:3
+4/1:6
+0/11:16
+4/9:1
+6/4:4
+13/3:3
+0/7:3
+6/7:3
